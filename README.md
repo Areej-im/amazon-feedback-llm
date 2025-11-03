@@ -6,9 +6,9 @@ A Streamlit-based application that analyzes Amazon product reviews using **Gemin
 
 ## Overview
 This project processes and analyzes customer feedback from Amazon products to extract:
-- 🔹 Complaints  
-- 🔹 Suggestions  
-- 🔹 Positive insights  
+- Complaints  
+- Suggestions  
+- Positive insights  
 
 The system uses a combination of **data preprocessing**, **LLM-powered text analysis**, and **RAG-based retrieval** to answer user questions interactively.
 
