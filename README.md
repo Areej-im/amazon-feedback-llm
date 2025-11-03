@@ -23,3 +23,13 @@ LLM analysis using Google Gemini
 Vector storage and retrieval with ChromaDB
 
 Streamlit interface for interactive Q&A
+
+---
+
+## Screenshots
+
+**Main Interface:**
+![App Screenshot](https://github.com/Areej-im/amazon-feedback-llm/blob/main/screenshot1.png?raw=true)
+
+**Example Output:**
+![Chatbot Answer](https://github.com/Areej-im/amazon-feedback-llm/blob/main/screenshot2.png?raw=true)
